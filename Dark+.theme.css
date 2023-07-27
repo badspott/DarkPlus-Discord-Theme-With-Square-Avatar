@@ -15,7 +15,7 @@
 :root {
   --darkplus-bg: #212121;
   --darkplus-bg2: #302f2f;
-  --darkplus-sec: #bb86fc;
+  --darkplus-sec: #E00000;
   --darkplus-links: #cdaef3;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png);
  --watermark-filter-invert: 0%;
@@ -25,24 +25,4 @@
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
   --darkplus-emoji-picker-color: 210deg;
-}
-
-.avatar-2e8lTP {
-    position: absolute;
-    left: 16px;
-    margin-top: calc(4px - .125rem);
-    width: 40px;
-    height: 40px;
-    border-radius: 30%;
-    overflow: hidden;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 auto;
-    flex: 0 0 auto;
-    pointer-events: none;
-    z-index: 1;
 }
