@@ -13,10 +13,10 @@
 @import url('https://raw.githubusercontent.com/badspott/DarkPlus-Discord-Theme-With-Square-Avatar/main/Dark%2B.theme.css');
 
 :root {
-  --darkplus-bg: #212121;
+  --darkplus-bg: #0A0A0A;
   --darkplus-bg2: #302f2f;
-  --darkplus-sec: #bb86fc;
-  --darkplus-links: #cdaef3;
+  --darkplus-sec: #F90000;
+  --darkplus-links: #C60300;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/852117175212179466/discord-avatar-512-YV0PV.png);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
